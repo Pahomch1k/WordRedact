@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dz_10_WordRedact", "Dz_10_WordRedact\Dz_10_WordRedact.csproj", "{F5355615-C96F-4165-A44B-1A5D40457057}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5355615-C96F-4165-A44B-1A5D40457057}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5355615-C96F-4165-A44B-1A5D40457057}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5355615-C96F-4165-A44B-1A5D40457057}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5355615-C96F-4165-A44B-1A5D40457057}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D60E402E-4A57-4964-9768-DDC024F71006}
+	EndGlobalSection
+EndGlobal
